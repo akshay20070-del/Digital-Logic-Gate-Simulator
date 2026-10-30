@@ -1,0 +1,21 @@
+# Smart Accident Detection and Emergency Alert System
+# Software Requirements Specification
+
+# Core System:
+# This project is designed intentionally with standard Python 3 built-in libraries
+# to ensure high compatibility, zero-dependency setup, and ease of execution
+# for academic evaluation and college mini-project demonstrations.
+
+# Python Version: Python 3.8+ (Tested on Python 3.10, 3.11, 3.12, 3.13, 3.14)
+
+# Built-in Standard Libraries Used:
+# - tkinter (GUI Framework & Canvas graphics)
+# - math (Vector magnitude calculation: sqrt(x^2 + y^2 + z^2))
+# - csv (Accident event history persistent logging)
+# - datetime (Event timestamping)
+# - random (Sensor and GPS noise simulation)
+# - os, sys (Path handling and file operations)
+# - webbrowser (Opening simulated Google Maps coordinates in default browser)
+
+# Note: On Ubuntu/Debian Linux systems, if tkinter is missing, install via:
+# sudo apt-get install python3-tk

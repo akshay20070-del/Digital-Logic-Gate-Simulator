@@ -1,0 +1,16 @@
+Sample_Index,Time_Offset_s,Accel_X_mps2,Accel_Y_mps2,Accel_Z_mps2,Magnitude_mps2,Scenario_Description
+1,0.5,0.12,-0.25,9.82,9.82,Normal Cruising - Smooth Asphalt
+2,1.0,-0.18,0.30,9.78,9.79,Normal Cruising - Lane Keeping
+3,1.5,0.35,-0.12,9.85,9.86,Normal Cruising - Gentle Curve
+4,2.0,-0.22,0.45,9.91,9.92,Normal Cruising - Steady Throttle
+5,2.5,0.80,-1.50,9.70,9.85,Mild Deceleration - Traffic Light
+6,3.0,-0.15,0.20,9.80,9.80,Normal Cruising
+7,3.5,0.50,1.20,18.50,18.55,Speed Bump Encounter (Single Spike - Rejected by Filter)
+8,4.0,-0.10,-0.30,9.82,9.83,Normal Cruising - Stabilized Post Bump
+9,4.5,0.25,0.15,9.75,9.75,Normal Cruising
+10,5.0,-0.40,0.50,9.88,9.90,Normal Cruising - Approaching Intersection
+11,5.5,24.50,38.20,18.90,49.12,COLLISION EVENT - Sudden Violent Impact (Sample 1)
+12,6.0,-19.80,-32.10,22.40,43.99,COLLISION EVENT - Chassis Rebound / Spin (Sample 2 - Confirmed)
+13,6.5,12.30,-15.80,14.20,24.52,Post-Collision Debris Jolt (Sample 3)
+14,7.0,0.05,-0.02,9.81,9.81,Vehicle Stationary at Rest (Crash Site)
+15,7.5,0.02,0.01,9.81,9.81,Vehicle Stationary at Rest (Awaiting Help)
